@@ -10,7 +10,9 @@ We are Archie and Mau. This is our page. No touch.
 ## The Cats
 
 ### Archibald The Bitey
-<img src="imgs/archie.jpg" alt="selfie" width=200/>
+
+<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/archie.jpg" width="200">
+
 
 ```
 "I bite." - Archie probably
