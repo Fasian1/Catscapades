@@ -9,7 +9,7 @@ We are Archie and Mau. This is our page. No touch.
 
 ## Archibald The Bitey
 
-<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/archie2.png" width="200">
+<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/archie3.png" width="200">
 
 
 ```
@@ -18,5 +18,5 @@ We are Archie and Mau. This is our page. No touch.
 
 ## Mau The Praud 
 
-<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/mau.png" style="background-color: papayawhip" height="200">
+<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/mau2.png" height="200">
 
