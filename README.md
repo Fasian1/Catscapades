@@ -7,9 +7,7 @@ We are Archie and Mau. This is our page. No touch.
 ```
 
 
-## The Cats
-
-### Archibald The Bitey
+## Archibald The Bitey
 
 <img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/archie2.png" width="200">
 
@@ -17,3 +15,8 @@ We are Archie and Mau. This is our page. No touch.
 ```
 "I bite." - Archie probably
 ```
+
+## Mau The Praud 
+
+<img src="https://github.com/Fasian1/Catscapades/raw/master/imgs/mau.png" height="200">
+
